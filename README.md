@@ -10,6 +10,8 @@ In order to run the unit tests, you can use the dotnet test command from the Dev
 
 The solution I have provided covers all of the main requirements provided.
 
+I have provided comments across the code to explain various decisions I have made, etc.
+
 I have used the following third-party libraries:
 - XUnit for my testing framework.
 - FluentValidation for my model validation.
